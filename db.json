@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Fix navigation bug"
+      "body": "Estimated time: 1hr Assignee: Zoya",
+      "lane": 1
+    },
+    {
+      "id": 2,
+      "title": "Release new website",
+      "body": "Estimated time: 4hrs Assignee: Jeffin",
+      "lane": 2
+    },
+    {
+      "id": 3,
+      "title": "Change layout for the content page,
+      "body": "Estimated time: 3hrs Assignee: Teresa",
+      "lane": 1
+    },
+    ...
+  ]
+}
